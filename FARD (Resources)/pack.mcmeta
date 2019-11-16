@@ -1,0 +1,25 @@
+{
+    "pack": {
+        "pack_format": 4,
+        "description": [
+            {
+                "translate": "%1$s",
+                "with": [
+                    {
+                        "text": "Enable to play FARD",
+                        "color": "red"
+                    },
+                    {
+                        "translate": "pack.fard.name",
+                        "color": "aqua"
+                    }
+                ]
+            },
+            "\n",
+            {
+                "text": "M1.15+",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}
