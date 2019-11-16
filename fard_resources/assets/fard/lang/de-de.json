@@ -1,0 +1,16 @@
+{
+    "%1$s": "%2$s",
+
+    "pack.fard.name": "FARD",
+    "pack.fard.prefix": "[FARD] ",
+    "pack.fard.description": "",
+    "pack.fard.load": "Geladen",
+
+    "text.fard.update": "Aktualisierung erfolgreich",
+    "text.fard.downdate": "Es wurde eine alte Version über eine neue installiert, Pack wird deaktiviert...",
+    "text.fard.downdate.done": "Pack deaktiviert",
+    "text.fard.update.build_number": "Buildnummer",
+    "text.fard.update.server_version_number": "Server-Version",
+    "text.fard.server_version.too_low": "Diese Minecraft-Version ist zu alt, Pack wird deaktiviert...",
+    "text.fard.server_version.too_low.done": "Pack deaktiviert"
+}
