@@ -1,0 +1,16 @@
+{
+    "%1$s": "%2$s",
+
+    "pack.fard.name": "FARD",
+    "pack.fard.prefix": "[FARD] ",
+    "pack.fard.description": "",
+    "pack.fard.load": "Loaded",
+
+    "text.fard.update": "Successfully updated",
+    "text.fard.downdate": "You are downdating! Disabling pack...",
+    "text.fard.downdate.done": "Pack disabled",
+    "text.fard.update.build_number": "Build Number",
+    "text.fard.update.server_version_number": "Server version",
+    "text.fard.server_version.too_low": "You are not playing in the correct Minecraft version! Disabling pack...",
+    "text.fard.server_version.too_low.done": "Pack disabled"
+}
