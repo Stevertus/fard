@@ -1,0 +1,6 @@
+name: fard
+version: 0.0.1-alpha.1
+
+dependencies:
+  objd:
+    path: C:\dev\Dart\objectiveD

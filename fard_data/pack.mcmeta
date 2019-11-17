@@ -1,9 +1,1 @@
-{
-    "pack": {
-        "pack_format": 4,
-        "description": [{"translate":"pack.fard.description"}]
-    },
-    "contributors": [
-        ["Andante", "https://github.com/AndanteDevs"]
-    ]
-}
+{"pack":{"pack_format":1,"description":"This is a datapack generated with objd by Stevertus"}}
